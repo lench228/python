@@ -1,0 +1,5 @@
+first_number = int(input('Введите число №1 '))
+second_number = int(input('Введите число №2 '))
+third_number = int(input('Введите число №3 '))
+fourth_number = int(input('Введите число №4 '))
+print((first_number + second_number) / (third_number + fourth_number))
